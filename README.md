@@ -30,4 +30,3 @@ This project highlights the significant role of home size and the number of bath
 
 ## References
 - Data sourced from Lock5stat.com datasets.
-- Supported by relevant course materials and statistical tools.
