@@ -4,10 +4,10 @@
 This project provides a statistical analysis of the real estate market in California. By examining factors such as home size, the number of bedrooms, and the number of bathrooms, the project aims to determine their influence on home prices. Additionally, it compares home prices across four states (CA, NY, NJ, PA) to identify any significant interstate differences.
 
 ## Key Research Questions
-1. How does the size of a home influence its price in California?
-2. How do the number of bedrooms and bathrooms affect home prices in California?
-3. What is the combined impact of size, bedrooms, and bathrooms on home prices?
-4. Are there significant differences in home prices among California, New York, New Jersey, and Pennsylvania?
+- How does the size of a home influence its price in California?
+- How do the number of bedrooms and bathrooms affect home prices in California?
+- What is the combined impact of size, bedrooms, and bathrooms on home prices?
+- Are there significant differences in home prices among California, New York, New Jersey, and Pennsylvania?
 
 ## Data & Methodology
 The dataset includes 120 observations from homes in California and other states, with variables such as Price, Size, Beds, and Baths. The analysis involved:
